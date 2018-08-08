@@ -1,0 +1,14 @@
+Cython
+pyvi
+tqdm
+langdetect
+mpld3
+matplotlib
+scikit-learn
+gensim
+pandas
+nltk
+pyLDAvis
+fasttext
+fuzzywuzzy
+python-Levenshtein
